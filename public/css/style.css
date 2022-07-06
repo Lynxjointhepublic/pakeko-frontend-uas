@@ -144,14 +144,9 @@ body{
 @media (max-width: 991.98px) {
     .navbar .navbar-nav .nav-link  {
         padding: 10px 0;
-    },
+    }
     .gambar {
         margin-left: 0px;
-        margin-right: 0px;
-    }
-    .gambar{
-        margin-left: 0;
-        margin-right: 0;
     }
 }
 
