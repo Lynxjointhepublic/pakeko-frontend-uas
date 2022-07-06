@@ -190,7 +190,7 @@ export default function Home({resume}) {
 }
 
 export async function getServerSideProps(context){
-  const linkdb = 'http://localhost:5000/';
+  const linkdb = 'https://backend-uas-pakeko.herokuapp.com/';
   const respondb = await fetch(linkdb);
   const datajson = await respondb.json();
   
