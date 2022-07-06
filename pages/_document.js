@@ -11,7 +11,7 @@ export default function Document() {
   <meta content name="keywords" />
   <meta content name="description" />
   {/* Favicon */}
-  <link href="img/law.png" rel="icon" />
+  <link href="img/law.ico" rel="icon" />
   {/* Google Web Fonts */}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
