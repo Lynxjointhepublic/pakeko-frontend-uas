@@ -1,0 +1,153 @@
+{
+    "head" : 
+        {
+        "judul":"Hai!",
+        "nama":"Daniel Albi Etfiansa",
+        "desc":"Kalian bisa panggil saya Daniel. Saya tinggal di Banyuwangi. Senang bertemu dengan kalian semua. Terima kasih!",
+        "img":"img/image1.jpg"
+        },
+    "skill" : 
+        {
+        "judul":"Skills & Experience",
+        "desc":"Skill dan Experience saya adalah",
+        "subjudul":"stet",
+        "skill":[
+            {
+                "type":"html"
+            },
+            {
+                "type":"adobe photoshop"
+            },
+            {
+                "type":"css"
+            },
+            {
+                "type":"mobile app"
+            }
+            ]
+        },
+    "service":
+        {
+        "judul":"My service",
+        "items":[
+            {
+                "img":"img/profile.png",
+                "judul":"Creative",
+                "desc":"lorem"
+            },
+            {
+                "img":"img/profile.png",
+                "judul":"Creative",
+                "desc":"lorem"
+            },
+            {
+                "img":"img/profile.png",
+                "judul":"Creative",
+                "desc":"lorem"
+            },
+            {
+                "img":"img/profile.png",
+                "judul":"Creative",
+                "desc":"lorem"
+            }
+        ]
+        },
+    "project":
+        {
+            "judul":"Project",
+            "items":[
+                {
+                    "name" : "gambar 1",
+                    "img" : "img/gambar2.png",
+                    "icon" : [
+                        {
+                            "class" : "fa fa-eye"
+                        },
+                        {
+                            "class" : "fa fa-link"
+                        }
+                    ]
+                },
+                {
+                    "name" : "gambar 2",
+                    "img" : "img/profile.png",
+                    "icon" : [
+                        {
+                            "class" : "fa fa-eye"
+                        },
+                        {
+                            "class" : "fa fa-link"
+                        }
+                    ]
+                },
+                {
+                    "name" : "gambar 3",
+                    "img" : "img/profile.png",
+                    "icon" : [
+                        {
+                            "class" : "fa fa-eye"
+                        },
+                        {
+                            "class" : "fa fa-link"
+                        }
+                    ]
+                }
+            ]
+        },
+    "contact":{
+        "name" : "contact",
+        "items" : [
+            {
+                "judul":"Call Me",
+                "desc":"01230123"
+            },
+            {
+                "judul":"Mail Me",
+                "desc":"info@gmail.com"
+            },
+            {
+                "judul":"follow me",
+                "item":[
+                    {
+                        "icon":"Facebook"
+                    },
+                    {
+                        "icon":"Instagram"
+                    }
+                ]
+            },
+            {
+                "desc":"thecontac",
+                "item":[
+                    {
+                        "text":"your name"
+                    },
+                    {
+                        "text":"your email"
+                    },
+                    {
+                        "text":"Subject"
+                    },
+                    {
+                        "text":"Message"
+                    }
+                ],
+                "button":"Send Message"
+            }
+        ]
+    },
+    "judul" :{
+            "name":"judul",
+            "judul":[
+                {
+                    "text":"Daniel"
+                },
+                {
+                    "text":"desi"
+                },
+                {
+                    "text":"your name"
+                }
+            ]
+        }
+}   
